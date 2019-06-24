@@ -1,0 +1,9 @@
+C:\Users\dyodgorov\Desktop\ContactLog\ContactLog\bin\Debug\ContactLog.exe.config
+C:\Users\dyodgorov\Desktop\ContactLog\ContactLog\bin\Debug\ContactLog.exe
+C:\Users\dyodgorov\Desktop\ContactLog\ContactLog\bin\Debug\ContactLog.pdb
+C:\Users\dyodgorov\Desktop\ContactLog\ContactLog\obj\Debug\ContactLog.Form1.resources
+C:\Users\dyodgorov\Desktop\ContactLog\ContactLog\obj\Debug\ContactLog.Properties.Resources.resources
+C:\Users\dyodgorov\Desktop\ContactLog\ContactLog\obj\Debug\ContactLog.csproj.GenerateResource.Cache
+C:\Users\dyodgorov\Desktop\ContactLog\ContactLog\obj\Debug\ContactLog.exe
+C:\Users\dyodgorov\Desktop\ContactLog\ContactLog\obj\Debug\ContactLog.pdb
+C:\Users\dyodgorov\Desktop\ContactLog\ContactLog\obj\Debug\ContactLog.csprojResolveAssemblyReference.cache
